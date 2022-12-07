@@ -4,12 +4,12 @@ Straightforward HTTP client based on PHP's Client URL Library
 
 ## Prerequisites
 
-- PHP >= 7.1
+- PHP >= 7.4
 - cURL and JSON extensions installed and enabled
 
 ## Installation
 
-`composer require furqansiddiqui/http-client`
+`composer require matrix543/http-client`
 
 ## Usage
 
